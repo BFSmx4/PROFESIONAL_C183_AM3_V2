@@ -124,7 +124,7 @@ export default class Main extends React.Component {
                         <Text style={styles.titleText1}>FR</Text><Text style={styles.titleText2}>APP</Text>
                     </View>
                     <View style={{ flexDirection: 'row', flexWrap: 'wrap' }}>
-                        <Text style={styles.subheading1}>Prueba nuestras</Text><Text style={styles.subheading2}> gafas geniales</Text>
+                        <Text style={styles.subheading1}>Prueba nuestras</Text><Text style={styles.subheading2}> gafas</Text>
                     </View>
                 </View>
                 <View style={styles.cameraStyle}>
